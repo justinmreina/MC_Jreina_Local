@@ -1,6 +1,6 @@
 @targ 	spending time in the word
 @need 	establish integration into routine & life, grow your relationship
-@date 	10/7/17
+@date 	7/25/18
 
 @section 	Components
 	Weekly Activity
@@ -14,7 +14,13 @@
 	5 weekdays, 1 hour daily activities. 3 days running (MWF), 2 days in scripture (TTh)
 	
 	Find a plan, from a book and build from this
-	
+
+@section 	Upcoming MC Bible Study Sections
+	The Letters of Paul (Phillipians (3, Focus in Christ 15-21), 2 Corinthians(His comfort & gift in life), Romans (My curiosity), As team seeks)
+	Phillipians
+	Matthew->Acts
+	Revelations
+
 @section 	Core Components
 	Spiritual Connection and time
 	Congregation connection & time
@@ -52,6 +58,8 @@
 	They had become so comfortable in the richness of the Lord, it becomes the presumption and our assumption, for our control and guidance - Ezekiel 21:21
 		*discuss how often this occurs in our own lifes, how easy it is to assume the graciousness and power of his gift in our lives. Control feels so good, but is not permanent and misses the point!
 
+@section 	Steve Book Recs
+	Give It All to Him, Max Lucado (2004)
 
 @section 	Open Literature
 	Jefferson Bethke (Videos, Jesus > Religion, It's Not What You Think)
