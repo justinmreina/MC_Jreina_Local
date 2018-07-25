@@ -1,0 +1,20 @@
+@brief 		Route details from Dan R
+@details 	For map generation
+@auth 		Justin Reina
+@date 		7/21/18
+
+@section 	Original
+	My house 701 Avenue B
+	Central Market in Mill Creek
+	Safeway on 75th
+	Albertsons on 132nd and 35th Avenue Southeast
+	2721 Lincoln Way Apartments
+	WinCo on 100th and 19th Avenue Southeast
+	Woodlake Manor Apartments Snohomish
+	
+@section 	Original
+	I need you to build a map if you would go from my house 701 Avenue B to Central Market in Mill Creek then to Safeway on 75th then to Albertsons on 132nd and 35th Avenue Southeast then on to 2721 Lincoln Way Apartments then to WinCo on 100th and 19th Avenue Southeast then to Woodlake Manor Apartments Snohomish /can you do this it's for Andy and you!!!! For Saturday 
+	I will follow you guys need to show you something at Central Market I forgot to tell Andy
+	
+
+
