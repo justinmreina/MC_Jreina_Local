@@ -1,0 +1,9 @@
+@brief 		Nursery Attendance Form Notes
+@details 	For document generation
+@auth 		Justin Reina
+@date 		9/8/18
+
+@section 	Notes
+	Document will be double-sided, with back section for staff signatures
+	Document will be accompanied by second sheet form
+
