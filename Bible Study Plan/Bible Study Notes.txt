@@ -39,9 +39,10 @@
 	Proverbs 3
 	
 @section 	Bible Study Topics
-	Pride 			(shared by Jerry, SoE)
-	Love			(literal & symbol)	
-
+	Pride 			 (shared by Jerry, SoE)
+	Love			 (literal & symbol)	
+	The Original Sin (the first sin and our seperation from god, why this happened and why we need him in the first place)
+	
 @section 	Opens
 	"He who says there is no god is a liar and the truth is not with him" <- study
 	Weekly Steve Meetup (setup)
@@ -65,7 +66,5 @@
 	Jefferson Bethke (Videos, Jesus > Religion, It's Not What You Think)
 	The Ragamuffin Gospel, Brennan Manning
 	The Biblical Exposition - Henry Holmon
+	Life Application Study Bible
 
-@section 	Completed Bible Sections	
-			1 Corinthians:13	(marked)
-	
