@@ -4,19 +4,20 @@
 @date 		11/23/18
 
 @section 	Binder Sections
-	Front Page
-	Route Lists
-	Route Maps
-	Pickup Procedure
-	Delivery Procedure
-	Special Activites Log
-	Disposal Routine
-	Disposal Log
-	Stores Listing
-	Tean Contacts
-	Truck Maintenance Log
-	Mileage Log
-	Scratch Pad
+	A. Front Page
+	B. Route Lists					[1]
+	C. Route Maps					[2]
+	D. Pickup Procedure
+	E. Delivery Procedure
+	F. Special Activites Log
+	G. Disposal Routine
+	H. Disposal Log
+	I. Stores Listing
+	J. Team Contacts
+	K. Truck Listing w/pics
+	L. Truck Maintenance Log
+	M. Mileage Log
+	N. Scratch Pad
 	
 	
 	
