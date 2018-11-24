@@ -1,0 +1,23 @@
+@brief 		x
+@details 	x
+@auth 		Justin Reina
+@date 		11/23/18
+
+@section 	Binder Sections
+	Front Page
+	Route Lists
+	Route Maps
+	Pickup Procedure
+	Delivery Procedure
+	Special Activites Log
+	Disposal Routine
+	Disposal Log
+	Stores Listing
+	Tean Contacts
+	Truck Maintenance Log
+	Mileage Log
+	Scratch Pad
+	
+	
+	
+
