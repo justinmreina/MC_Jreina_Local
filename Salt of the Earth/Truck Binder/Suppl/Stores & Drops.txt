@@ -1,0 +1,94 @@
+@brief 		Stores & Drops
+@details 	x
+@auth 		Justin Reina
+@date 		11/23/18
+
+
+@section 	Stores
+	Central - Mill Creek
+		15605 Main St
+		Mill Creek, WA 98012
+		
+	Safeway - Silver Firs
+		5802 134th Pl SE
+		Everett, WA 98208
+		
+	Safeway - Evergreen Way
+		7601 Evergreen Way
+		Everett, WA 98203
+		
+	Winco   - 100th Everett
+		9900 19th Ave SE
+		Everett, WA 98208
+
+	Safeway - 110th Everett
+		11031 19th Ave SE
+		Everett, WA 98208	
+
+	Safeway - Duvall
+		14020 Main St NE
+		Duvall, WA 98019
+		
+	Costco - Woodinville
+		 24008 Woodinville Snohomish Rd
+		 Woodinville, WA 98072
+		
+	Pastor Mike's House
+		120th Ave SE & 212th St SE
+		Maltby, WA 98296
+	
+	Alberstons - 128th Everett
+		3322 132nd St SE
+		Mill Creek, WA 98012
+
+@section 	Drops
+	Sultan
+		Sportsman Park
+		US-2 & Albion St.
+		Sultan, WA 98294
+
+	Index
+		 622 Index Ave
+		 Index, WA 98256
+		 
+	Gold Bar
+		36728 US-2
+		Sultan, WA 98294
+		
+	Hope Church
+		5002 Bickford Ave
+		Snohomish, WA 98290
+		
+	Renew Lynnwood
+		2721 164th St SW
+		Lynnwood, WA 98087
+		
+	Family Tree Apts. Everett
+		10110 19th Ave SE
+		#R200
+		Everett, WA 98208
+		
+	Pinehurst
+		 1902 E Madison St
+		 Everett, WA 98203
+		 
+	Lincoln Way Apartments
+		2721 Lincoln Way
+		Lynnwood, WA 98087
+
+	Woodlake Manor
+		1018 13th St
+		Snohomish, WA 98290
+		
+	LIFEchurch360 - Smokey Point
+		 3131 Smokey Point Drive, Suite 1-B
+		 Arlington, WA 98223
+		 
+	Midnight Cry
+		210 Avenue B
+		Snohomish, WA 98290
+
+	Lake Village East, Behind Target
+		420 97th Dr NE
+		Lake Stevens, WA 98258
+
