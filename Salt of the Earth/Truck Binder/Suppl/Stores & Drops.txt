@@ -5,7 +5,7 @@
 
 
 @section 	Stores
-	Central - Mill Creek
+	Central Market - Mill Creek
 		15605 Main St
 		Mill Creek, WA 98012
 		
@@ -13,7 +13,7 @@
 		5802 134th Pl SE
 		Everett, WA 98208
 		
-	Safeway - Evergreen Way
+	Safeway - 75th
 		7601 Evergreen Way
 		Everett, WA 98203
 		
@@ -91,4 +91,21 @@
 	Lake Village East, Behind Target
 		420 97th Dr NE
 		Lake Stevens, WA 98258
+		
+	Washington Oakes
+		1717 Rockefeller Ave
+		Everett, WA 98201
+
+@section 	Start
+	Dan R
+	701 Avenue B
+	Snohomish, WA 98290
+	
+	Dave G
+	2908 118th Pl SE
+	Everett, WA 98208
+
+	Stefan W
+	21624 Sertz Rd
+	Gold Bar, WA 98251
 

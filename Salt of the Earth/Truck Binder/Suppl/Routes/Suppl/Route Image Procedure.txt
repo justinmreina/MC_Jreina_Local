@@ -1,0 +1,22 @@
+@brief 		x
+@details 	x
+@auth 		Justin Reina
+@date 		11/25/18
+
+@section 	Steps
+	Set monitor to max resolution
+	Open Google Maps (maps.google.com)
+	Enter truck pickup location (e.g. 701 Ave B.)
+	Enter first stop as destination
+	Enter subsequent stops with 'Add destination'
+	Take full screenshot at largest screen size for full map [1]
+		*Ensure "Satellite Thumbprint to bottom outside of screenshot
+		*Zooming makes things complicated, try to leave in standard view
+	Drag end location offset lightly to move duration timestamp
+	Take full screenshot at same size [2]
+	Enter both unscaled to GIMP (1, 2) and align
+	
+@section 	Summary Points
+	Two pics, main & extended
+	Use extended to gen map w/o timestamp?
+	Import to GIMP for photo generation

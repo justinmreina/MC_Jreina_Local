@@ -1,0 +1,115 @@
+@brief 		Route Lists
+@details 	x
+@auth 		Justin Reina
+@date 		11/23/18
+
+@section 	Routes
+	Monday - Dave's Van
+	  Driver: Dave R.
+	  Help:   Bob L.
+	  Store:  Central - Mill Creek, 8:30-10:00am [1]
+	  Store:  Safeway - 75th, 10:00am [2]
+	  Drop:   Rockafellow Senior - Everett, 11:00am [3]
+	  @note   [1] No weight here. Produce at first receive dock 
+				  behind store, bread, pastry, dairy, deli at 2nd receive dock, take cart's back
+	  @note   [2] Go to each department for donations, go out 
+				  back in receiving
+	  @note	  [3] Back inside parking lot, Call Margaret 
+				  (425)870-1349 when leaving Safeway 75th
+	
+	Monday - Robo Truck
+	  Driver: Stefan W.
+	  Help:   Kathy W.
+	  Store:  Safeway - Duvall, 10:00am
+	  Drop:   Sultan, 11:00am
+	  Drop:   Index, 12:30pm
+	  Drop:   Gold Bar, 1:30pm
+	  @note   lots of notes, see sheets 
+	
+	Tuesday - Sara Lee
+	  Driver: Dan R.
+	  Help:   Billy C.
+	  Store:  Safeway - Duvall, 9:00am [1]
+	  Drop:   Hope Church, Sno. Bickford Ave. @ front of church, 11:30am
+	  @note   [1] P/U at receiving, Talk to Darrell, all departments
+	
+	Tuesday - Dave's Van
+	  Driver: Dave S.
+	  Help:   Mel G.
+	  Store:  Central - Mill Creek, 8:30am
+	  Store:  Safeway - Evergreen Way, 10:00am
+	  Drop:   Hope Church, Sno. Bickford Ave. @ front of church, 11:30am
+	
+	Wednesday - Sara Lee [1]
+	  Driver: Dan R.
+	  Help:   Billy C.
+	  Store:  Central - Mill Creek, 8:30-10:00am [2]
+	  Store:  Safeway - Evergreen Way, 10:00am [3]
+	  Store:  Winco - 100th Everett, 11:00am
+	  Drop:   Renew - Lynnwood, 12:00pm [4]
+	  @note [1] 6 days P/U
+	  @note [2] No weight here. Produce at first receive dock 
+				behind store, bread, pastry, dairy, deli at 2nd receive dock, take cart's back
+	  @note [3] Go to each department for donations, go out 
+				back in receiving
+	  @note	[4] Unload truck. Prayer then they help themselves	
+	
+	Thursday - Dave's Van
+	  Driver: Doug H.
+	  Help:   ?Wife?
+	  Store:  Central - Mill Creek, 8:30-10:00am
+	  Store:  Safeway - Evergreen Way, 10:00am
+	  Drop:   Family Tree Apts. - Everett, 11:00am
+	  @note   Community center in front
+	  @note   Contact is Karen
+	
+	Friday - Dave's Van
+	  Driver: Dennis S.
+	  Help:   Gary P.
+	  Store:  Central - Mill Creek, 8:30-9:00am
+	  Store:  Safeway - Silver Firs, 9:45am
+	  Store:  Safeway - Evergreen Way, 10:00am
+	  Drop:   Pinehurst - Basement, 11:00am
+	
+	Saturday - Sara Lee
+	  Driver: Justin R.
+	  Help:   Andy G.
+	  Store:  Safeway - Silver Firs,
+	  Store:  Alberstons - 128th Everett, 
+	  Store:  Central - Mill Creek,
+	  Drop:   Lincoln Way, 12:30
+	  Drop:   Woodlake Manor, 2:30
+	
+	Saturday - ?Truck?
+	  Driver: Riva H.
+	  Help:   Alyson
+	  Store:  Sprouts - Everett, 9:00am
+	  Store:  Safeway - Evergreen Way, 10:00am
+	  Store:  Winco   - 100th Everett, 11:00am
+	  Drop:   Life Church 360 - Smokey Point, 12:00pm
+	
+	Saturday - Robo Truck
+	  Driver: Stefan W.
+	  Help:   Kim W. or Jim Lang
+	  Store:  Costco, Woodinville,
+	  Store:  Pastor Mike's House,
+	  Store:  Safeway - Duvall,
+	  Drop:   Midnight Cry
+	  @note	  Carry over from Safeway Duvall for Monday
+	  @note   Varry over to Church Sun @ 4pm
+	
+	Sunday - Sara Lee, Robo Truck
+	  Driver: Dale L. | Stefan W.
+	  Help:   Stephanie L. | Kim W, Kathy W
+	  Store:  Safeway - Silver Firs, 10:00am
+	  Store:  Safeway - 110th Everett, 11:00am
+	  Store:  Winco   - 100th Everett, 11:30am
+	  Drop:   Lake Village East, Behind Target, 2:30pm
+	  Drop:   Midnight Cry, 6:45pm after service
+	
+@section 	Open Notes
+	What are start locs for all routes?
+	Add 'clean truck, water & lights record' to truck activity routine
+	Stefan Wallis: (206)225-4339
+	Zipper folder
+	Sheet - All food banks
