@@ -1,0 +1,14 @@
+@brief 		Binder Drafting Notes
+@details 	For first pass
+@auth 		Justin Reina
+@date 		11/24/18
+
+@section 	Ideas
+	Add a Mileage Log
+	Ideas Record Sheet, in front of scratch
+	Vehicles Sheet (Dave's Van, Robo Van, Sara Lee)
+	Add Dan's Pickup instructions verbatim
+	Add Stefan's Pickup instructions verbatim
+	What are start locs for all routes?
+	Sheet - All food banks
+
