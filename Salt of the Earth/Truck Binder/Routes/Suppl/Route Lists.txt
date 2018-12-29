@@ -4,7 +4,7 @@
 @date 		11/23/18
 
 @section 	Routes
-	Monday - Dave's Van
+[A]	Monday - Dave's Van
 	  Driver: Dave R.
 	  Help:   Bob L.
 	  Store:  Central - Mill Creek, 8:30-10:00am [1]
@@ -17,7 +17,7 @@
 	  @note	  [3] Back inside parking lot, Call Margaret 
 				  (425)870-1349 when leaving Safeway 75th
 	
-	Monday - Robo Truck
+[B]	Monday - Robo Truck
 	  Driver: Stefan W.
 	  Help:   Kathy W.
 	  Store:  Safeway - Duvall, 10:00am
@@ -26,21 +26,21 @@
 	  Drop:   Gold Bar, 1:30pm
 	  @note   lots of notes, see sheets 
 	
-	Tuesday - Sara Lee
+[C]	Tuesday - Sara Lee
 	  Driver: Dan R.
 	  Help:   Billy C.
 	  Store:  Safeway - Duvall, 9:00am [1]
 	  Drop:   Hope Church, Sno. Bickford Ave. @ front of church, 11:30am
 	  @note   [1] P/U at receiving, Talk to Darrell, all departments
 	
-	Tuesday - Dave's Van
+[D]	Tuesday - Dave's Van
 	  Driver: Dave S.
 	  Help:   Mel G.
 	  Store:  Central - Mill Creek, 8:30am
 	  Store:  Safeway - Evergreen Way, 10:00am
 	  Drop:   Hope Church, Sno. Bickford Ave. @ front of church, 11:30am
 	
-	Wednesday - Sara Lee [1]
+[E]	Wednesday - Sara Lee [1]
 	  Driver: Dan R.
 	  Help:   Billy C.
 	  Store:  Central - Mill Creek, 8:30-10:00am [2]
@@ -54,7 +54,7 @@
 				back in receiving
 	  @note	[4] Unload truck. Prayer then they help themselves	
 	
-	Thursday - Dave's Van
+[F]	Thursday - Dave's Van
 	  Driver: Doug H.
 	  Help:   ?Wife?
 	  Store:  Central - Mill Creek, 8:30-10:00am
@@ -63,7 +63,7 @@
 	  @note   Community center in front
 	  @note   Contact is Karen
 	
-	Friday - Dave's Van
+[G]	Friday - Dave's Van
 	  Driver: Dennis S.
 	  Help:   Gary P.
 	  Store:  Central - Mill Creek, 8:30-9:00am
@@ -71,7 +71,7 @@
 	  Store:  Safeway - Evergreen Way, 10:00am
 	  Drop:   Pinehurst - Basement, 11:00am
 	
-	Saturday - Sara Lee
+[H]	Saturday - Sara Lee
 	  Driver: Justin R.
 	  Help:   Andy G.
 	  Store:  Safeway - Silver Firs,
@@ -80,7 +80,7 @@
 	  Drop:   Lincoln Way, 12:30
 	  Drop:   Woodlake Manor, 2:30
 	
-	Saturday - ?Truck?
+[I]	Saturday - ?Truck?
 	  Driver: Riva H.
 	  Help:   Alyson
 	  Store:  Sprouts - Everett, 9:00am
@@ -88,7 +88,7 @@
 	  Store:  Winco   - 100th Everett, 11:00am
 	  Drop:   Life Church 360 - Smokey Point, 12:00pm
 	
-	Saturday - Robo Truck
+[J]	Saturday - Robo Truck
 	  Driver: Stefan W.
 	  Help:   Kim W. or Jim Lang
 	  Store:  Costco, Woodinville,
@@ -98,7 +98,7 @@
 	  @note	  Carry over from Safeway Duvall for Monday
 	  @note   Varry over to Church Sun @ 4pm
 	
-	Sunday - Sara Lee, Robo Truck
+[K]	Sunday - Sara Lee, Robo Truck
 	  Driver: Dale L. | Stefan W.
 	  Help:   Stephanie L. | Kim W, Kathy W
 	  Store:  Safeway - Silver Firs, 10:00am

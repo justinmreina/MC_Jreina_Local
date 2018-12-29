@@ -15,9 +15,10 @@
 	I. Stores Listing
 	J. Team Contacts
 	K. Truck Listing w/pics
-	L. Truck Maintenance Log
-	M. Mileage Log
-	N. Scratch Pad
+	L. Truck Operations Log
+	M. Truck Maintenance Log
+	N. Mileage Log
+	O. Scratch Pad
 	
 	
 	
