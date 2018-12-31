@@ -48,10 +48,8 @@
 	  Store:  Winco - 100th Everett, 11:00am
 	  Drop:   Renew - Lynnwood, 12:00pm [4]
 	  @note [1] 6 days P/U
-	  @note [2] No weight here. Produce at first receive dock 
-				behind store, bread, pastry, dairy, deli at 2nd receive dock, take cart's back
-	  @note [3] Go to each department for donations, go out 
-				back in receiving
+	  @note [2] No weight here. Produce at first receive dock behind store, bread, pastry, dairy, deli at 2nd receive dock, take cart's back
+	  @note [3] Go to each department for donations, go out back in receiving
 	  @note	[4] Unload truck. Prayer then they help themselves	
 	
 [F]	Thursday - Dave's Van
