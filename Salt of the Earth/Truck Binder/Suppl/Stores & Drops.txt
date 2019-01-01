@@ -23,15 +23,15 @@
 
 	Safeway - 110th Everett
 		11031 19th Ave SE
-		Everett, WA 98208	
+		Everett, WA 98208
 
 	Safeway - Duvall
 		14020 Main St NE
 		Duvall, WA 98019
 		
 	Costco - Woodinville
-		 24008 Woodinville Snohomish Rd
-		 Woodinville, WA 98072
+		24008 Woodinville Snohomish Rd
+		Woodinville, WA 98072
 		
 	Pastor Mike's House
 		12821 212th St SE
@@ -41,6 +41,10 @@
 		3322 132nd St SE
 		Mill Creek, WA 98012
 
+	Sprouts Farmers Market
+		13314 Bothell Everett Hwy
+		Mill Creek, WA 98012
+	
 @section 	Drops
 	Sultan
 		Sportsman Park
@@ -68,9 +72,9 @@
 		#R200
 		Everett, WA 98208
 		
-	Pinehurst
-		 1902 E Madison St
-		 Everett, WA 98203
+	Pinehurst Baptist Church
+		1902 E Madison St
+		Everett, WA 98203
 		 
 	Lincoln Way Apartments
 		2721 Lincoln Way
@@ -81,8 +85,8 @@
 		Snohomish, WA 98290
 		
 	LIFEchurch360 - Smokey Point
-		 3131 Smokey Point Drive, Suite 1-B
-		 Arlington, WA 98223
+		3131 Smokey Point Drive, Suite 1-B
+		Arlington, WA 98223
 		 
 	Midnight Cry
 		210 Avenue B
@@ -96,6 +100,10 @@
 		1717 Rockefeller Ave
 		Everett, WA 98201
 
+	Family Tree Apartments
+		10110 19th Ave SE
+		Everett, WA 98208
+		
 @section 	Start
 	Dan R
 	701 Avenue B
