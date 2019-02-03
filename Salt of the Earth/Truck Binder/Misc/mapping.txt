@@ -1,0 +1,29 @@
+@brief 		Binder Sections Order
+@details 	x
+@auth 		Justin Reina
+@date 		2/2/19
+
+
+@section 	Sections Order
+		
+	Title Page.pdf					1
+
+	Delivery Procedure.pdf			3
+	Disposal Procedure.pdf			1
+	Pickup Procedure.pdf			3
+
+	Pickup Locations.pdf			1
+	Drop Listing.pdf				1
+	
+	Routes - Title Page.pdf			1
+	Routes							22
+	
+	Mileage Log.pdf					1
+	Truck Maintenance Log.pdf		2
+	Truck Operating Log.pdf			2
+	Special Activities Log.pdf		2
+	Food Disposal Log.pdf			2
+
+	Team Contacts.pdf				1
+	Ideas Page.pdf					1
+	Scratch Page.pdf				1
